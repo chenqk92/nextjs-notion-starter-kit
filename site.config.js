@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '064603b9235642ed9a42e86c1d4af186',
+  rootNotionPageId: '114b78494f0b43eb85245cd92e22b834',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '效率工具指南',
-  domain: 'https://www.notion.so/phh95/064603b9235642ed9a42e86c1d4af186',
-  author: 'angola',
+  name: '个人主页',
+  domain: 'https://www.notion.so/114b78494f0b43eb85245cd92e22b834',
+  author: 'Jessper',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'phh95',
+  github: 'chenqk92',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
